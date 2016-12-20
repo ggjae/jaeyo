@@ -1,14 +1,16 @@
-# git/github 입문
-## git 입문했어요!
+# git/github
+## git begin
 <img src="https://octodex.github.com/images/welcometocat.png" height="200">
 
 
 
-# github markdown 문법
->[link to markdown reference](https://guides.github.com/features/mastering-markdown/)
+# github markdown grammer
+>[link to markdown reference](https://guidcales.github.com/features/mastering-markdown/)
 
 
 
  
-# git/github 튜토리얼
+# git/github tuto
 >[https://github.com/GreatBean](https://github.com/GreatBean)
+clanguage -> study clan while in Hanyang university computer science JAVA -> study JAVA while in Hanyang university computer sciencec
+opensource -> study opensource while in Hanyang university computer science
