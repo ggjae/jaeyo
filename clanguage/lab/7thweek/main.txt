@@ -1,0 +1,2 @@
+C:\Users\samsung\AppData\Local\Temp\ccGvErLl.o	main.c:(.text+0xcc): undefined reference to `alloc'
+C:\Users\samsung\Desktop\¾¾¾ð¾î~\20161110\collect2.exe	[Error] ld returned 1 exit status
